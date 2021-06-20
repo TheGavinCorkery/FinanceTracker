@@ -1,0 +1,34 @@
+
+	-------------- Transaction List ----------------
+12/12/2020      Bowling Alley        Entertainment   	20
+  
+12/12/2020      Texas Roadhouse      FoodDrink       	50
+  
+12/12/2020      Ford                 Bill            	260
+  
+12/14/2020      Uber                 Transportation  	15
+  
+12/14/2020      Cinemark             Entertainment   	30
+  
+12/14/2020      IHOP                 FoodDrink       	20
+  
+12/14/2020      Apple Music          Bill            	15
+  
+12/14/2020      Lyft                 Transportation  	20  
+
+--------Total Spending ---------
+
+
+Total Bills:              $275.00
+Bill Percentage:            63.95
+
+Total Food/Drink:          $70.00
+Food/Drink Percent:         16.28
+
+Total Entertainment:       $50.00
+Entertainment Percent:      11.63
+
+Total Transportation:      $35.00
+Transportation Percent:      8.14
+-----------------------------------
+Total Spent:               $430.00
